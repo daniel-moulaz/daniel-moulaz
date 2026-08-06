@@ -22,11 +22,9 @@
 
 Sou estudante de **Sistemas de Informação na UFOP** e atuo com **Operações, Automação e IA**.
 
-Gosto de transformar problemas que chegam pouco estruturados — integrações falhando, processos manuais, dados inconsistentes ou comportamentos difíceis de reproduzir — em soluções mais **rastreáveis, testáveis e confiáveis**.
+Gosto de transformar problemas que chegam pouco estruturados, como integrações falhando, processos manuais, dados inconsistentes ou comportamentos difíceis de reproduzir, em soluções mais **rastreáveis, testáveis e confiáveis**.
 
 Meu foco profissional está em **desenvolvimento backend, APIs, integrações, automação e qualidade de software**, sempre conectando a implementação técnica ao problema real de quem utiliza o sistema.
-
----
 
 ## O que faço na prática
 
@@ -51,8 +49,6 @@ Testes, homologação e documentação
         ↓
 Acompanhamento da solução em produção
 ```
-
----
 
 ## Projetos em destaque
 
@@ -109,8 +105,6 @@ Acompanhamento da solução em produção
   </tr>
 </table>
 
----
-
 ## Tecnologias
 
 ### Uso na prática
@@ -141,8 +135,6 @@ Acompanhamento da solução em produção
 
 </div>
 
----
-
 ## Momento atual
 
 - 🎓 Cursando **Sistemas de Informação** na Universidade Federal de Ouro Preto.
@@ -150,8 +142,6 @@ Acompanhamento da solução em produção
 - 🔧 Evoluindo em **backend, arquitetura de APIs, bancos de dados e qualidade de software**.
 - 📊 Estudando também **análise de dados, Power BI, SQL e Python**.
 - 🚀 Buscando oportunidades em **Backend, Integrações, Automação, QA e Implantação técnica**.
-
----
 
 ## Visão geral do GitHub
 
@@ -174,8 +164,6 @@ Acompanhamento da solução em produção
 
 </div>
 
----
-
 ## Construindo, testando e melhorando 🐍
 
 <picture>
@@ -183,8 +171,6 @@ Acompanhamento da solução em produção
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel-moulaz/daniel-moulaz/output/github-contribution-grid-snake.svg">
   <img alt="Animação das contribuições de Daniel Moulaz" src="https://raw.githubusercontent.com/daniel-moulaz/daniel-moulaz/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 ## Onde me encontrar
 
