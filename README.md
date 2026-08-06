@@ -10,7 +10,7 @@
 
 Sou estudante de **Sistemas de Informação na UFOP** e atuo com **Operações, Automação e IA**.
 
-Gosto de pegar problemas que chegam meio bagunçados — integrações falhando, processos manuais, dados inconsistentes ou comportamentos difíceis de reproduzir — e transformar em soluções mais **rastreáveis, testáveis e confiáveis**.
+Gosto de pegar problemas que chegam meio bagunçados como: integrações falhando, processos manuais, dados inconsistentes ou comportamentos difíceis de reproduzir — e transformar em soluções mais **rastreáveis, testáveis e confiáveis**.
 
 Hoje meu foco está em:
 
