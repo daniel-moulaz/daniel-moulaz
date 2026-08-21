@@ -39,20 +39,20 @@ Hoje trabalho principalmente com **Node.js, TypeScript e Python**, e tenho cada 
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com/?user=daniel-moulaz&theme=transparent&hide_border=true&card_width=850"
-  alt="Estatísticas do GitHub"
-/>
+  <img
+    width="100%"
+    src="https://github-stats-extended-nu.vercel.app/api?username=daniel-moulaz&show_icons=true&include_all_commits=true&theme=dark"
+    alt="Estatísticas do GitHub"
+  />
 
-<br><br>
+  <br><br>
 
-<a href="https://www.linkedin.com/in/daniel-moulaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/daniel-moulaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="mailto:danielmoulaz7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <a href="mailto:danielmoulaz7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
 </div>
