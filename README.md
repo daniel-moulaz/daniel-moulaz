@@ -18,7 +18,18 @@ Hoje trabalho principalmente com **Node.js, TypeScript e Python**, e tenho cada 
 - 🧩 Interesse em **Backend, APIs e Arquitetura de Software**
 - 📍 **Minas Gerais, Brasil**
 
+## >_ Projetos em destaque
+
+| Projeto | O que estou construindo |
+| --- | --- |
+| [Aresta](https://github.com/daniel-moulaz/aresta) | Recepção de webhooks, transformação de dados e acompanhamento de falhas de integração. [Demo](https://aresta.daniel-moulaz.workers.dev). |
+| [SEPTEM Cinemas](https://github.com/daniel-moulaz/septem-cinemas) | Sessões de cinema, reserva de assentos e validação de ingressos, com foco em concorrência e autorização. [Demo](https://septem-cinemas.vercel.app). |
+| [Nexo](https://github.com/daniel-moulaz/Nexo) | Finanças pessoais locais em Flutter para Android e Windows: contas, cartões, orçamentos e previsão de caixa. |
+| [Merid](https://github.com/daniel-moulaz/merid) | Organização de tarefas e agenda, separando o que precisa ser feito de quando cabe no dia. |
+
 ## 🐍 >_ Contribuições
+
+[![Atualização da cobrinha](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml)
 
 <picture>
   <source
