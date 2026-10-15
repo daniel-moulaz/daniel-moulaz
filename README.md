@@ -1,33 +1,21 @@
 # Daniel Moulaz
 
-## 👋 >_ Olá!
+**Backend, APIs e automação.** Estudo Sistemas de Informação na UFOP e construo aplicações com TypeScript, Node.js e Python. Gosto de conectar plataformas, investigar falhas e transformar regras de negócio em sistemas que fazem sentido no uso diário.
 
-Sou **Daniel Moulaz**, tenho **18 anos** e curso **Sistemas de Informação na UFOP**.
+[LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
 
-Gosto de construir coisas que envolvem **backend, APIs, integrações e automação**.
-
-Boa parte do que aprendi veio resolvendo problemas reais: conectando plataformas, trabalhando com webhooks, investigando logs, testando fluxos e tentando entender por que algo que estava funcionando cinco minutos atrás simplesmente parou.
-
-Hoje trabalho principalmente com **Node.js, TypeScript e Python**, e tenho cada vez mais interesse por **arquitetura de software, sistemas e construção de aplicações confiáveis**.
-
-## >_ Sobre mim
-
-- 🎓 **Sistemas de Informação** — Universidade Federal de Ouro Preto
-- ⚙️ Atuação com **Automações, Integrações e IA aplicada**
-- 💻 Principalmente com **Node.js, TypeScript e Python**
-- 🧩 Interesse em **Backend, APIs e Arquitetura de Software**
-- 📍 **Minas Gerais, Brasil**
-
-## >_ Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que estou construindo |
 | --- | --- |
-| [Aresta](https://github.com/daniel-moulaz/aresta) | Recepção de webhooks, transformação de dados e acompanhamento de falhas de integração. [Demo](https://aresta.daniel-moulaz.workers.dev). |
-| [SEPTEM Cinemas](https://github.com/daniel-moulaz/septem-cinemas) | Sessões de cinema, reserva de assentos e validação de ingressos, com foco em concorrência e autorização. [Demo](https://septem-cinemas.vercel.app). |
-| [Nexo](https://github.com/daniel-moulaz/Nexo) | Finanças pessoais locais em Flutter para Android e Windows: contas, cartões, orçamentos e previsão de caixa. |
-| [Merid](https://github.com/daniel-moulaz/merid) | Organização de tarefas e agenda, separando o que precisa ser feito de quando cabe no dia. |
+| [Aresta](https://github.com/daniel-moulaz/aresta) | Monitoramento de webhooks com idempotência e tratamento de falhas. **React · Python · PostgreSQL**. [Demo interativa](https://aresta.daniel-moulaz.workers.dev) · [Decisões técnicas](docs/PORTFOLIO.md#aresta). |
+| [SEPTEM Cinemas](https://github.com/daniel-moulaz/septem-cinemas) | Reserva de assentos e validação de ingressos, com controle de concorrência no banco. **React · Fastify · PostgreSQL**. [Telas](https://github.com/daniel-moulaz/septem-cinemas/blob/main/docs/DEMO.md) · [Demo online](https://septem-cinemas.vercel.app) · [Decisões técnicas](docs/PORTFOLIO.md#septem-cinemas). |
+| [Nexo](https://github.com/daniel-moulaz/Nexo) | Finanças pessoais locais: contas, cartões, orçamento e previsão de caixa. **Flutter · Dart · SQLite**. [Telas](https://github.com/daniel-moulaz/Nexo#telas) · [Decisões técnicas](docs/PORTFOLIO.md#nexo). |
+| [Merid](https://github.com/daniel-moulaz/merid) | Tarefas e agenda para entender o que precisa ser feito e o que cabe no dia. **Expo · TypeScript · Supabase**. [Conhecer o fluxo](https://github.com/daniel-moulaz/merid#experimente-o-fluxo-principal) · [Decisões técnicas](docs/PORTFOLIO.md#merid). |
 
-## 🐍 >_ Contribuições
+O [guia dos projetos](docs/PORTFOLIO.md) reúne demonstrações, escolhas de arquitetura e links para os testes. Cada projeto informa seu estágio e suas limitações.
+
+## 🐍 Contribuições
 
 [![Atualização da cobrinha](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml)
 
@@ -46,9 +34,10 @@ Hoje trabalho principalmente com **Node.js, TypeScript e Python**, e tenho cada 
   >
 </picture>
 
-## 📊 >_ Estatísticas & Contato
+<details>
+<summary>Estatísticas do GitHub</summary>
 
-<div align="center">
+<p>
 
   <img
     width="100%"
@@ -56,14 +45,5 @@ Hoje trabalho principalmente com **Node.js, TypeScript e Python**, e tenho cada 
     alt="Estatísticas do GitHub"
   />
 
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/daniel-moulaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:danielmoulaz7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-</div>
+</p>
+</details>
