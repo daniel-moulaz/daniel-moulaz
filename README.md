@@ -25,3 +25,36 @@ Estudante de Sistemas de Informação na UFOP e estagiário de Operações, Auto
 | [CustomerPulse](https://github.com/daniel-moulaz/customer-pulse) | Dashboard de Customer Success: health score, risco de churn e registro de acompanhamentos. **React · TypeScript** | [Demo](https://customer-pulses.vercel.app) |
 
 Os READMEs informam o estágio atual e as limitações de cada projeto; SEPTEM, Aresta e SupportFlow AI também registram como usei IA no desenvolvimento.
+
+## 🐍 Contribuições
+
+[![Atualização da cobrinha](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml/badge.svg?branch=main)](https://github.com/daniel-moulaz/daniel-moulaz/actions/workflows/snake.yml)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/daniel-moulaz/daniel-moulaz/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/daniel-moulaz/daniel-moulaz/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="Gráfico de contribuições de Daniel Moulaz"
+    src="https://raw.githubusercontent.com/daniel-moulaz/daniel-moulaz/output/github-contribution-grid-snake.svg"
+  >
+</picture>
+
+<details>
+<summary>Estatísticas do GitHub</summary>
+
+<p>
+
+  <img
+    width="100%"
+    src="https://github-stats-extended-nu.vercel.app/api?username=daniel-moulaz&show_icons=true&include_all_commits=true&theme=dark"
+    alt="Estatísticas do GitHub"
+  />
+
+</p>
+</details>
