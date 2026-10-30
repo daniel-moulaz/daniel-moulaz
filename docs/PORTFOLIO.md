@@ -42,11 +42,11 @@ Um caminho curto para conhecer cada produto e, se quiser aprofundar, chegar às 
 | --- | --- |
 | Regras financeiras compartilhadas, com persistência SQLite por plataforma | [Regras](https://github.com/daniel-moulaz/Nexo/blob/main/lib/services/finance_rules.dart), [plataforma do banco](https://github.com/daniel-moulaz/Nexo/blob/main/lib/database/database_platform.dart) e [testes contábeis](https://github.com/daniel-moulaz/Nexo/blob/main/test/ledger_test.dart) |
 | Previsão baseada em compromissos cadastrados, sem inventar renda futura | [Linha do tempo](https://github.com/daniel-moulaz/Nexo/blob/main/lib/services/cash_timeline.dart) e [testes](https://github.com/daniel-moulaz/Nexo/blob/main/test/cash_timeline_test.dart) |
-| Sugestões de notificações passam por revisão antes de criar lançamentos | [Caixa de sugestões](https://github.com/daniel-moulaz/Nexo/blob/main/lib/services/notification_inbox.dart) e [testes de revisão](https://github.com/daniel-moulaz/Nexo/blob/main/test/notification_review_screen_test.dart) |
+| Sugestões (inclusive do Open Finance) passam pela caixa "Para revisar" antes de virar lançamento | [Caixa de sugestões](https://github.com/daniel-moulaz/Nexo/blob/main/lib/services/notification_inbox.dart), [testes de revisão](https://github.com/daniel-moulaz/Nexo/blob/main/test/notification_review_screen_test.dart) e [testes da conciliação](https://github.com/daniel-moulaz/Nexo/blob/main/test/inbox_reconciler_test.dart) |
 
-**Limite atual:** Android em uso; homologação completa do Windows em andamento. Celular e PC mantêm bases independentes, sem sincronização remota. A [validação da publicação](https://github.com/daniel-moulaz/Nexo/blob/main/docs/NEXO_GITHUB.md) distingue os testes do código público dos testes de alterações locais ainda pendentes.
+**Limite atual:** Android em uso; homologação completa do Windows em andamento. A sincronização entre celular e PC é opcional, usa um projeto Supabase próprio e não tem criptografia de ponta a ponta ([revisão de segurança](https://github.com/daniel-moulaz/Nexo/blob/main/docs/SEGURANCA.md)).
 
-O Nexo evolui a partir do [Expensy de Mina Android](https://github.com/mina-android/Expensy), sob licença MIT, preservando os créditos e o histórico originais. A evolução está descrita no [README](https://github.com/daniel-moulaz/Nexo#desenvolvimento-e-origem).
+O Nexo foi construído a partir de uma base open source sob licença MIT, o [Expensy de Mina Android](https://github.com/mina-android/Expensy), com os créditos na [LICENSE](https://github.com/daniel-moulaz/Nexo/blob/main/LICENSE). Mais detalhes no [README](https://github.com/daniel-moulaz/Nexo#desenvolvimento).
 
 ## Merid
 
