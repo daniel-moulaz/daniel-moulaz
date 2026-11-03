@@ -6,7 +6,7 @@ Estudante de Sistemas de Informação na UFOP e estagiário de Operações, Auto
 
 > EN: Information Systems student at UFOP and intern in operations, automation and AI. I build APIs, integrations and full-stack apps (TypeScript, Python, SQL). Intermediate English; based in Minas Gerais, Brazil.
 
-## No trabalho (MBC — código privado)
+## No trabalho
 - Agentes de IA para atendimento no WhatsApp/Chatwoot, com transferência para atendente humano
 - Assistente com RAG para dúvidas de alunos, com avaliação de respostas e custo via SQL
 - Automações com n8n e integrações entre pagamento, CRM e área de membros
