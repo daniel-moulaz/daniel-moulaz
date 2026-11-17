@@ -4,12 +4,13 @@ Estudante de Sistemas de Informação na UFOP e estagiário de Operações, Auto
 
 [LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
 
-> EN: Information Systems student at UFOP and intern in operations, automation and AI. I build APIs, integrations and full-stack apps (TypeScript, Python, SQL). Intermediate English; based in Minas Gerais, Brazil.
+> EN: Information Systems student at UFOP and operations, automation & AI intern. I build AI agents, n8n automations, APIs and full-stack apps (TypeScript, Python, SQL). Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles.
 
 ## No trabalho
 - Agentes de IA para atendimento no WhatsApp/Chatwoot, com transferência para atendente humano
 - Assistente com RAG para dúvidas de alunos, com avaliação de respostas e custo via SQL
 - Automações com n8n e integrações entre pagamento, CRM e área de membros
+- Automação de lançamentos: captação de leads em grupos de WhatsApp, aquecimento, lembretes de live, carrinho aberto e recuperação
 - Skills de Claude Code para tarefas recorrentes do time
 - Sistema interno unificado para quatro operações (React/TypeScript + Supabase)
 
