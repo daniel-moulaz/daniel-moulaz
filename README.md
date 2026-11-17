@@ -1,14 +1,14 @@
 # Daniel Moulaz
 
-Estudante de Sistemas de Informação na UFOP e estagiário de Operações, Automação e IA na MBC Negócios Digitais (desde 06/2026). Construo APIs, integrações e aplicações full stack com TypeScript, Node.js, Python e SQL, e no trabalho uso IA e automação em processos reais de atendimento e operação.
+Desenvolvo automações, integrações e agentes de IA que rodam em produção na MBC Negócios Digitais, onde sou estagiário de Operações, Automação e IA desde 06/2026. Também construo APIs e aplicações full stack com TypeScript, Node.js, Python e SQL, e curso Sistemas de Informação na UFOP.
 
 [LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
 
-> EN: Information Systems student at UFOP and operations, automation & AI intern. I build AI agents, n8n automations, APIs and full-stack apps (TypeScript, Python, SQL). Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles.
+> EN: I build automations, integrations and AI agents that run in production at MBC, where I've been an operations, automation & AI intern since June 2026. I also build APIs and full-stack apps (TypeScript, Python, SQL) and study Information Systems at UFOP. Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles.
 
 ## No trabalho
 - Agentes de IA para atendimento no WhatsApp/Chatwoot, com transferência para atendente humano
-- Assistente com RAG para dúvidas de alunos, com avaliação de respostas e custo via SQL
+- Assistente com RAG para dúvidas de alunos, com avaliação de respostas e custo via SQL (mais de 300 commits e 70 PRs meus desde julho)
 - Automações com n8n e integrações entre pagamento, CRM e área de membros
 - Automação de lançamentos: captação de leads em grupos de WhatsApp, aquecimento, lembretes de live, carrinho aberto e recuperação
 - Skills de Claude Code para tarefas recorrentes do time
