@@ -24,7 +24,7 @@ Referências: [agendamentos](https://docs.github.com/en/actions/reference/workfl
 
 ## Validação em 15/10/2026
 
-- A [execução 38751380918](https://github.com/daniel-moulaz/daniel-moulaz/actions/runs/38751380918), disparada automaticamente pelo push, concluiu geração, validação e publicação com sucesso às 14:26 UTC.
+- A [execução 38751380918](https://github.com/moul4z/moul4z/actions/runs/38751380918), disparada automaticamente pelo push, concluiu geração, validação e publicação com sucesso às 14:26 UTC.
 - A branch `output` avançou para `4caa2535599d4f24c1ef656a2ce8f3ceb8ff5371`; os dois SVGs publicados têm 40.850 bytes cada.
 - O perfil foi recarregado no navegador: tabela de projetos, badge `passing`, cobrinha e cartão de estatísticas renderizaram corretamente.
 - As demos públicas de Aresta e SEPTEM responderam HTTP 200. Isso verifica disponibilidade dos links, não constitui homologação funcional dessas aplicações.
