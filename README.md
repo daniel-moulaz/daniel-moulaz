@@ -2,9 +2,9 @@
 
 Desenvolvo automações, integrações e agentes de IA que rodam em produção na MBC Negócios Digitais, onde sou estagiário de Operações, Automação e IA desde 06/2026. Também construo APIs e aplicações full stack com TypeScript, Node.js, Python e SQL, e curso Sistemas de Informação na UFOP.
 
-[Portfólio](https://moul4z.github.io) · [LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
+[Portfólio](https://moulaz.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
 
-> EN: I build automations, integrations and AI agents that run in production at MBC, where I've been an operations, automation & AI intern since June 2026. I also build APIs and full-stack apps (TypeScript, Python, SQL) and study Information Systems at UFOP. Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles. Portfolio: [moul4z.github.io/en](https://moul4z.github.io/en/).
+> EN: I build automations, integrations and AI agents that run in production at MBC, where I've been an operations, automation & AI intern since June 2026. I also build APIs and full-stack apps (TypeScript, Python, SQL) and study Information Systems at UFOP. Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles. Portfolio: [moul4z.github.io/en](https://moulaz.dev/en/).
 
 ## No trabalho
 - Agentes de IA para atendimento no WhatsApp/Chatwoot, com transferência para atendente humano
