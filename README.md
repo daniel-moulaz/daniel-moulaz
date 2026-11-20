@@ -4,7 +4,7 @@ Desenvolvo automações, integrações e agentes de IA que rodam em produção n
 
 [Portfólio](https://moulaz.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-moulaz/) · [E-mail](mailto:danielmoulaz7@gmail.com) · [Guia dos projetos](docs/PORTFOLIO.md)
 
-> EN: I build automations, integrations and AI agents that run in production at MBC, where I've been an operations, automation & AI intern since June 2026. I also build APIs and full-stack apps (TypeScript, Python, SQL) and study Information Systems at UFOP. Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles. Portfolio: [moul4z.github.io/en](https://moulaz.dev/en/).
+> EN: I build automations, integrations and AI agents that run in production at MBC, where I've been an operations, automation & AI intern since June 2026. I also build APIs and full-stack apps (TypeScript, Python, SQL) and study Information Systems at UFOP. Upper-intermediate English (B2); based in Minas Gerais, Brazil (UTC−3), open to remote roles. Portfolio: [moulaz.dev/en](https://moulaz.dev/en/).
 
 ## No trabalho
 - Agentes de IA para atendimento no WhatsApp/Chatwoot, com transferência para atendente humano
